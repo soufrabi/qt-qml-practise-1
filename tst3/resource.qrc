@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/a">
+        <file>resources/rocket.png</file>
+    </qresource>
+</RCC>
