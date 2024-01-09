@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/a">
+        <file>book.svg</file>
+    </qresource>
+</RCC>

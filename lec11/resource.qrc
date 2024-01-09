@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/a">
+        <file>vertical-gradient.png</file>
+    </qresource>
+</RCC>

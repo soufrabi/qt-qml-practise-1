@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/a">
+        <file>background.png</file>
+        <file>smallArm.png</file>
+        <file>largeArm.png</file>
+    </qresource>
+</RCC>
